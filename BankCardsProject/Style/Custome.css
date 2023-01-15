@@ -1,0 +1,18 @@
+﻿body {
+    margin-top: 110px;
+}
+
+.navbar {
+    box-shadow: rgba(65, 159, 229, 0.7) 2px 2px 5px;
+    background-color: #fff;
+    opacity: 0.7;
+}
+
+.navbar .nav-item {
+    font-size: 1.4rem;  /*18px*/
+    padding-right: 1.2rem;
+}
+
+.navbar-brand{
+    
+}
